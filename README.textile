@@ -1,0 +1,23 @@
+h1. Anonymizer <small>by Eric Eggert, published at <a href="http://yatil.de">yatil.de</a></small>
+
+After a court decision in Germany website owners are not allowed to store personal information not necessary for processing information (like IPs). That?s especially important for comments, so site owners should anonymize comment IP adresses after checking them.
+
+More information at "advisign.de":http://www.advisign.de/datenschutz/2007-10/die-vorratsdatenspeicherung-fuer-den-hausgebrauch-oder-darf-man-ip-adressen-der-websitebesucher-speichern (in German).</p>            
+
+h2. Usage Instructions
+
+This plugin adds links for anonymizing commenters IP adresses to the comments tab. (JavaScript required, and TXP 4.0.5 for jQuery)
+It adds a Anonymizer tab under Extensions, where all comments can be anonymized with one click.
+
+h1. Anonymizer <small>von Eric Eggert, veröffentlicht auf <a href="http://yatil.de">yatil.de</a></small>
+
+Nach einer Gerichtsentscheidung in Deutschland ist es Betreibern von Webseiten nicht mehr erlaubt persönliche Informationen (wie IPs) dauerhaft zu speichern. Das gilt vor allem für Kommentare in Textpattern, deren IP-Adressen sollten nachdem sie überprüft wurden gelöscht werden.
+
+Weitere Informationen unter "advisign.de":http://www.advisign.de/datenschutz/2007-10/die-vorratsdatenspeicherung-fuer-den-hausgebrauch-oder-darf-man-ip-adressen-der-websitebesucher-speichern.
+
+
+h2. Verwendung
+
+Dieses Plugin fügt einen Link im Kommentar-Tab ein, welcher es erlaubt einzelne Kommentare zu anonymisieren. (JavaScript und TXP 4.0.5 wegen jQuery benötigt)
+
+Zudem gibt es einen Anonymizer-Tab, in dem alle Kommentare auf einmal anonymisiert werden können.
